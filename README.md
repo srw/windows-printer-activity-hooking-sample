@@ -6,7 +6,7 @@ This code is based on the XXXXX article
 
 Instructions
 
-1. Download and install Deviare from http://www.nektra.com/products/deviare-api-hook-windows/download
+1. [Download and install Deviare](http://www.nektra.com/products/deviare-api-hook-windows/download)
 
 2. Checkout this code
 
