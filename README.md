@@ -8,7 +8,7 @@ Instructions
 
 1. [Download and install Deviare](http://www.nektra.com/products/deviare-api-hook-windows/download)
 
-2. Checkout this code
+2. [Checkout this code](https://github.com/srw/windows-printer-activity-hooking-sample)
 
 3. Copy the following Deviare files to bin\x64\Debug and bin\x64\Release
 
