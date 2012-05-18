@@ -2,7 +2,7 @@ windows-printer-activity-hooking-sample
 =======================================
 
 The project hooks windows printer functions using the Deviare Interception Engine.
-This code is based on the XXXXX article
+This code is based on the [Logging Printer Activity article](http://blog.nektra.com/main/2012/05/18/logging-printer-activity/).
 
 Instructions
 
