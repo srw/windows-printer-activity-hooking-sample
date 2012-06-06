@@ -4,6 +4,8 @@ windows-printer-activity-hooking-sample
 The project hooks windows printer functions using the Deviare Interception Engine.
 This code is based on the [Logging Printer Activity article](http://blog.nektra.com/main/2012/05/18/logging-printer-activity/).
 
+The code was written by d002 and the article by srw.
+
 Instructions
 
 1. [Download and install Deviare](http://www.nektra.com/products/deviare-api-hook-windows/download)
